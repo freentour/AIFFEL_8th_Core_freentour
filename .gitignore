@@ -1,11 +1,11 @@
 # 커넥트 재단의 AI 부스트코스 관련 파일 제외
-boost/
+_boost/
 
 # 개인 정리용으로 관리하는 파일 제외
-private/
+_private/
 
 # 각종 테스트용으로 사용하는 파일 제외
-test/
+_test/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
